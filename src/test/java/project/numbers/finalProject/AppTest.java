@@ -1,7 +1,6 @@
 package project.numbers.finalProject;
-
 import org.junit.*;
-
+import project.numbers.finalProject.App;
 /**
  * Unit test for simple App.
  */
